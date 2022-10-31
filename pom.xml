@@ -9,8 +9,8 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.silenauth.simcheck.demo</groupId>
-	<artifactId>simcheck</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>sim-swap-file</artifactId>
+	<version>0.0.1</version>
 	<name>demo</name>
 	<description>sim swap file demo</description>
 	<properties>
