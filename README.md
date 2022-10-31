@@ -49,5 +49,5 @@ Run the program using your tru.ID project credentials
 336212,ERROR,A valid phone number is required
 33621770099,ERROR,mno_server_error
 
-Processed file: sample.csv rows 5 in 13s
+Processed file: sample.csv rows 5 in 6s
 ```
